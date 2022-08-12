@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Ryan is a student at Tufts University.\n\n\nTufts University | September 2020 - May 2024 (ant.)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I’m an undergrad student at Tufts University studying Quantitative Economics as well as math and French. I am interested in harnessing data to explore causality, especially using tools in contemporary micro-econometrics research.\nI’m using this website to store bits and bobs from my travels."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nTufts University, September 2020 - May 2024\nUniversité de Paris-Cité, September 2022 - May 2023 (study abroad)"
+  },
+  {
+    "objectID": "index.html#past-work",
+    "href": "index.html#past-work",
+    "title": "About Me",
+    "section": "Past Work",
+    "text": "Past Work\nU.S. Department of Defense–Office of Cost Assessment and Program Evaluation\nTufts Assistant Professor of Economics Elizabeth Setren"
+  }
+]
