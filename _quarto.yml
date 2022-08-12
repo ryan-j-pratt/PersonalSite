@@ -12,10 +12,6 @@ website:
       - href: about.qmd
         text: About
   favicon: seedling-solid.svg
-  cookie-consent:
-    type: express
-    style: headline
-    palette: dark
   open-graph: true
   twitter-card:
     creator: "@Ryan_J_Pratt"
