@@ -1,0 +1,8 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+---
+
+Here I'll share some of the projects I've worked on, both in and out of class.

@@ -1,33 +1,7 @@
 ---
-title: "About Me"
-about:
-  template: trestles
-  image: profilepic.jpg
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/ryan-j-pratt/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Ryan_J_Pratt/
-    - icon: github
-      text: GitHub
-      href: https://github.com/ryan-j-pratt/
+title: "Welcome"
+sidebar: false
 ---
 
-Hi! I'm an undergrad student at Tufts University studying Quantitative Economics as well as math and French. I am interested in harnessing data to explore causality, especially using tools in contemporary micro-econometrics research.
 
-I'm using this website to store bits and bobs from my travels.
-
-## Education
-
-Tufts University, September 2020 - May 2024
-
-Université de Paris-Cité, September 2022 - May 2023
-(study abroad)
-
-## Past Work
-
-U.S. Department of Defense--Office of Cost Assessment and Program Evaluation
-
-Tufts Assistant Professor of Economics Elizabeth Setren
+Make yourself at home. But please do so on a different page.
