@@ -25,6 +25,10 @@ website:
         href: https://twitter.com/Ryan_J_Pratt/
       - icon: github
         href: https://github.com/ryan-j-pratt/
+  cookie-consent:
+    type: implied
+    style: simple
+    palette: dark
 
 format:
   html:
