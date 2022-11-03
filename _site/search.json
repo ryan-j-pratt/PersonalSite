@@ -18,7 +18,11 @@
     "href": "index.html#education",
     "title": "About Me",
     "section": "Education",
+<<<<<<< HEAD
     "text": "Education\nTufts University, September 2020 - May 2024\nUniversité de Paris-Cité, September 2022 - December 2022 (study abroad)"
+=======
+    "text": "Education\nTufts University, September 2020 - May 2024\nUniversité de Paris-Cité, September 2022 - December 2023 (study abroad)"
+>>>>>>> c7cbf9c9a83db97cab817f24610b28658cda1734
   },
   {
     "objectID": "index.html#past-work",
