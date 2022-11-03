@@ -23,11 +23,7 @@ I'm using this website to store bits and bobs from my travels.
 
 Tufts University, September 2020 - May 2024
 
-<<<<<<< HEAD
 Université de Paris-Cité, September 2022 - December 2022
-=======
-Université de Paris-Cité, September 2022 - December 2023
->>>>>>> c7cbf9c9a83db97cab817f24610b28658cda1734
 (study abroad)
 
 ## Past Experience
