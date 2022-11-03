@@ -9,7 +9,7 @@ website:
     right:
       - href: projectslisting.qmd
         text: Projects
-      - href: about.qmd
+      - href: index.qmd
         text: About
   favicon: seedling-solid.svg
   open-graph: true
@@ -25,10 +25,10 @@ website:
         href: https://twitter.com/Ryan_J_Pratt/
       - icon: github
         href: https://github.com/ryan-j-pratt/
-  cookie-consent:
-    type: implied
-    style: simple
-    palette: dark
+  #cookie-consent:
+    #type: none
+    #style: simple
+    #palette: dark
 
 format:
   html:

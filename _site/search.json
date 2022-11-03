@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "About Me",
     "section": "",
-    "text": "Make yourself at home. But please do so on a different page."
+    "text": "Hi! I’m an undergrad student at Tufts University studying Quantitative Economics as well as math and French. I am interested in harnessing data to explore causality, especially using tools in contemporary micro-econometrics research.\nI’m using this website to store bits and bobs from my travels."
   },
   {
     "objectID": "index.html#education",
@@ -54,5 +54,12 @@
     "title": "Projects",
     "section": "",
     "text": "Hold it\n\n\nThis is just a placeholder!\n\n\n\n\n\n\nAug 12, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#past-experience",
+    "href": "index.html#past-experience",
+    "title": "About Me",
+    "section": "Past Experience",
+    "text": "Past Experience\nU.S. Department of Defense–Office of Cost Assessment and Program Evaluation\nTufts Assistant Professor of Economics Elizabeth Setren"
   }
 ]
